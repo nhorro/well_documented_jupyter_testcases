@@ -13,6 +13,13 @@ The problem with Jupyter notebooks are their lack of straightforward method to i
 This project tries to combine the best of both worlds for a project.
 A simple dockerized service for an RPC integer calculator is provided. See [instructions](services/calculator) to build and run.
 
+**Requirmenents for well documented testcases**
+
+- Automation.
+- Summary of passing and failing testcases.
+- Clear explanation of what is going on.
+- Reduce effort of setting up an environment and writing additional code when debugging.
+
 The following methods are compared:
 
 - [Standard PyTests testcases](./pytest_testcases)
