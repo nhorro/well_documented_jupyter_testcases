@@ -1,0 +1,1 @@
+docker run --rm --name calculator -p 80:80 calculator-service:latest
