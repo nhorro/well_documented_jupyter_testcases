@@ -15,10 +15,10 @@ A simple dockerized service for an RPC integer calculator is provided. See [inst
 
 **Requirmenents for well documented testcases**
 
-- Automation.
-- Summary of passing and failing testcases.
-- Clear explanation of what is going on.
-- Reduce effort of setting up an environment and writing additional code when debugging.
+- Automation and CI integration.
+- Summary of passing and failing testcases XUnit or similar, HTML report, CI.
+- Clear explanation of what is going on: tables, plots, text, packet formats, references, etc.
+- Reduce effort of setting up an environment and writing additional code when debugging. That is, the testcase should be a program that can be used with minor modifications to advance in the debugging.
 
 The following methods are compared:
 
